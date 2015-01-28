@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "pscggeforce@gmail.com",
+    "longName": "Test1",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Test1",
+    "uuid": "47452ea9-d821-482f-9c61-6c63e5f13271",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
